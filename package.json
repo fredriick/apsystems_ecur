@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/rkokkelk/apsystems_ecur#readme",
   "dependencies": {
-    "binary-parser": "^2.0.1"
+    "binary-parser": "^2.2.1"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
